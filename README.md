@@ -1,2 +1,3 @@
 # rsschool-cv
-https://nchuykov.github.io/rsschool-cv/cv
+## second task
+https://nchuykov.github.io/rsschool-cv/
